@@ -76,7 +76,7 @@ bool test2(int x) {
     // 比较
     return rNum == x;
 }
-int main() {
+int mainIsPalindrome() {
     bool flag = test1(1001);
     if (flag) {
         cout << "是回文数";
