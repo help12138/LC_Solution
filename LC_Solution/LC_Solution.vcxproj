@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="isValid.cpp" />
     <ClCompile Include="longestCommonPrefix.cpp" />
     <ClCompile Include="Palindromes.cpp" />
     <ClCompile Include="RomanNums.cpp" />
