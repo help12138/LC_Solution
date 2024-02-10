@@ -27,5 +27,8 @@
     <ClCompile Include="isValid.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="removeDuplicate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
