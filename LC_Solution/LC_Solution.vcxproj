@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="findMedianSortedArrays.cpp" />
     <ClCompile Include="isValid.cpp" />
     <ClCompile Include="longestCommonPrefix.cpp" />
     <ClCompile Include="Palindromes.cpp" />
