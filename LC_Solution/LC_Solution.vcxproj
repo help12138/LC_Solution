@@ -130,6 +130,7 @@
     <ClCompile Include="findMedianSortedArrays.cpp" />
     <ClCompile Include="isValid.cpp" />
     <ClCompile Include="longestCommonPrefix.cpp" />
+    <ClCompile Include="maxArea.cpp" />
     <ClCompile Include="Palindromes.cpp" />
     <ClCompile Include="removeDuplicate.cpp" />
     <ClCompile Include="RomanNums.cpp" />
