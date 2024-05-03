@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="24-5-3average.cpp" />
     <ClCompile Include="findMedianSortedArrays.cpp" />
     <ClCompile Include="isValid.cpp" />
     <ClCompile Include="longestCommonPrefix.cpp" />

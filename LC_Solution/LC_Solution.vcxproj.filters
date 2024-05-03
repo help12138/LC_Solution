@@ -36,5 +36,8 @@
     <ClCompile Include="maxArea.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="24-5-3average.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
